@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  RW.cpp
+c:\users\cz\desktop\rw\rw\rw.cpp(38): error C2664: “void ReadWrite(char *)”: 无法将参数 1 从“const char [12]”转换为“char *”
+  c:\users\cz\desktop\rw\rw\rw.cpp(38): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+c:\users\cz\desktop\rw\rw\rw.cpp(89): error C2664: “HANDLE CreateSemaphoreW(LPSECURITY_ATTRIBUTES,LONG,LONG,LPCWSTR)”: 无法将参数 4 从“const char [2]”转换为“LPCWSTR”
+  c:\users\cz\desktop\rw\rw\rw.cpp(89): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换

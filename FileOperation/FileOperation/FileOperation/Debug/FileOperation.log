@@ -1,0 +1,8 @@
+﻿  FileOperation.cpp
+c:\users\cz\desktop\fileoperation\fileoperation\fileoperation\fileoperation.cpp(187): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\cz\desktop\fileoperation\fileoperation\fileoperation\fileoperation.cpp(187): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\cz\desktop\fileoperation\fileoperation\fileoperation\fileoperation.cpp(187): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\cz\desktop\fileoperation\fileoperation\fileoperation\fileoperation.cpp(187): note: 此参数用作缓冲区大小
+c:\users\cz\desktop\fileoperation\fileoperation\fileoperation\fileoperation.cpp(29): warning C4715: “CreateFileOp”: 不是所有的控件路径都返回值
+c:\users\cz\desktop\fileoperation\fileoperation\fileoperation\fileoperation.cpp(176): warning C4715: “DataCom”: 不是所有的控件路径都返回值
+  FileOperation.vcxproj -> C:\Users\cz\Desktop\FileOperation\FileOperation\Debug\FileOperation.exe

@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  JobSchedule.cpp
+c:\users\cz\desktop\study3.1\操作系统\jobschedule\jobschedule\jobschedule.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\desktop\study3.1\操作系统\jobschedule\jobschedule\jobschedule.cpp(155): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\cz\desktop\study3.1\操作系统\jobschedule\jobschedule\jobschedule.cpp(196): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\cz\desktop\study3.1\操作系统\jobschedule\jobschedule\jobschedule.cpp(229): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\desktop\study3.1\操作系统\jobschedule\jobschedule\jobschedule.cpp(251): warning C4018: “>=”: 有符号/无符号不匹配
+  JobSchedule.vcxproj -> C:\Users\cz\Desktop\Study3.1\操作系统\JobSchedule\Debug\JobSchedule.exe
