@@ -1,8 +1,5 @@
 ﻿  PageReplace.cpp
-c:\users\cz\source\repos\pagereplace\pagereplace\pagereplace.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\cz\source\repos\pagereplace\pagereplace\pagereplace.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\cz\source\repos\pagereplace\pagereplace\pagereplace.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\cz\source\repos\pagereplace\pagereplace\pagereplace.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\cz\source\repos\pagereplace\pagereplace\pagereplace.cpp(90): warning C4018: “>=”: 有符号/无符号不匹配
-c:\users\cz\source\repos\pagereplace\pagereplace\pagereplace.cpp(129): warning C4018: “>=”: 有符号/无符号不匹配
-  PageReplace.vcxproj -> C:\Users\cz\source\repos\PageReplace\Debug\PageReplace.exe
+e:\study3.1\操作系统\osexpriment\pagereplace\pagereplace\pagereplace.cpp(12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\study3.1\操作系统\osexpriment\pagereplace\pagereplace\pagereplace.cpp(69): warning C4018: “>=”: 有符号/无符号不匹配
+e:\study3.1\操作系统\osexpriment\pagereplace\pagereplace\pagereplace.cpp(109): warning C4018: “>=”: 有符号/无符号不匹配
+  PageReplace.vcxproj -> E:\Study3.1\操作系统\OSExpriment\PageReplace\Debug\PageReplace.exe
