@@ -8,6 +8,6 @@ data comunication betwwen two processes.
 
 JobSchedule: Job Scheduling strategies, including FCFS, SJF,HRRN
 
-PageReplace:Page scheduling algorithm, LRU and FIFO.
+PageReplace:Page scheduling algorithm, LRU , FIFO and modified clock algorithm.
 
 RW: To solve problem of Reader and Writer, actually, the reader is preferred.
